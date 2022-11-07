@@ -8,7 +8,7 @@
 .travel_mainDiv img {
     width: 100%;
 }
-.travel_mainDiv h5 , .travel_mainDiv p {
+.travel_mainDiv h5 , .travel_mainDivs p {
     margin: 20px;
 }
 filme.head {
@@ -22,4 +22,10 @@ float: right;
 }
 .conquistas_text span {
     color: orange;
+}
+.novidade {
+    margin-bottom: 20px;
+}
+#contato iframe {
+    width: 100%;
 }
